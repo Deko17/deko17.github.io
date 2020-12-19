@@ -186,3 +186,52 @@ p {
 	margin-top: 20px;
 	margin-bottom: 20px;
 }
+
+.section-title {
+	font-size: 4rem;
+	text-transform: uppercase;
+	letter-spacing: .3rem;
+	color: black;
+	text-align: center;	
+}
+
+#skills .skills {
+	flex-direction: column;
+	max-width: 1200px;
+	margin: 0 auto;
+}
+
+.skills-subtitle{
+	font-size: 2rem;
+	letter-spacing: .2rem;
+	color: gray;
+	text-align: center;
+}
+
+
+#skills .skills-item {
+	width: 60%;
+	padding: 20px;
+	text-align: center;
+	border-radius: 10px;
+	padding: 30px;
+	margin: 30px;
+	margin-left: auto;
+	margin-right: auto;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	box-shadow: 0px 0px 15px 0 #0000002c;
+	transition: .3s ease box-shadow;
+}
+
+#skills .skills-item:hover {
+	box-shadow: 0px 0px 2px 0 #0000002c;
+}
+
+#skills .skills-info h2 {
+	font-size: 0.5rem;
+	line-height: 2rem;
+	font-weight: 100;
+}
