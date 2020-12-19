@@ -202,7 +202,7 @@ p {
 }
 
 .skills-subtitle{
-	font-size: 2rem;
+	font-size: 1.8rem;
 	letter-spacing: .2rem;
 	color: gray;
 	text-align: center;
@@ -230,8 +230,8 @@ p {
 	box-shadow: 0px 0px 2px 0 #0000002c;
 }
 
-#skills .skills-info h2 {
-	font-size: 0.5rem;
-	line-height: 2rem;
-	font-weight: 100;
+#skills .skills-info h3 {
+	font-size: 9rem;
+	line-height: 3rem;
+	font-weight: 500px;
 }
