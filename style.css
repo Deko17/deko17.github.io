@@ -272,3 +272,10 @@ p {
 	filter: grayscale(1);
 	transition: .3s ease filter;
 }
+
+@media only screen and (min-width: 600px) {
+	.cta {
+		font-size: 2.5rem;
+		padding: 20px 60px;
+	}
+}
