@@ -4,4 +4,4 @@ Build on:
   JS
   Bootstrap
 
-To view: https://deko17.github.io/personal_site/
+To view: https://deko17.github.io
